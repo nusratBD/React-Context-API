@@ -1,0 +1,14 @@
+.text-align{
+    text-align: center;
+}
+.grand-pa{
+    border: 2px solid salmon;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    margin: 30px;
+    font-weight: bolder;
+}
+.btn{
+    border: 1px solid gray;
+}
